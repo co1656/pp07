@@ -75,7 +75,7 @@ namespace MuSeoun_Engine
 
 			cRenderer.MoveCursor(p.x, p.y);
 			cRenderer.DrawString("P");
-			
+
 			
 			cRenderer.MoveCursor(10, 20);
 
